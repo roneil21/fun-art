@@ -90,7 +90,7 @@ Error generating stack: `+o.message+`
   &:hover{
     color: orange;
   }
-`,oc=()=>j.jsxs(qS,{children:[j.jsx(JS,{to:"/fun-art",children:"Fun Art"}),j.jsxs(ew,{children:[j.jsx(ka,{to:"/fun-art",children:"Home"}),j.jsx(ka,{to:"/fun-art/about",children:"About"}),j.jsx(ka,{to:"/fun-art/services",children:"Services"})]})]}),tw=hn.section`
+`,oc=()=>j.jsxs(qS,{children:[j.jsx(JS,{to:"/fun-art/",children:"Fun Art"}),j.jsxs(ew,{children:[j.jsx(ka,{to:"/fun-art",children:"Home"}),j.jsx(ka,{to:"/fun-art/about",children:"About"}),j.jsx(ka,{to:"/fun-art/services",children:"Services"})]})]}),tw=hn.section`
   background: url(${({bg:e})=>e&&e}) center;
   height: 100vh;
   display: flex;
