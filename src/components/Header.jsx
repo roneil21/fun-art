@@ -38,7 +38,7 @@ const NavbarLink = styled(Link)`
 const Header = () => {
   return (
     <Navbar>
-      <Logo to="/funart">
+      <Logo to="/fun-art">
         Fun Art
       </Logo>
       <NavItems>
